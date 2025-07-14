@@ -1,3 +1,4 @@
+<div style="background-image: url('https://img.freepik.com/fotos-premium/hintergrund-einer-weissen-betonmauer_707519-14914.jpg'); background-size: cover; padding: 50px;">
 # Arbeitsjournal  FB10 Melvin Volmar
 
 Datum: 04.07.2025
@@ -5,7 +6,7 @@ Datum: 04.07.2025
 ---
 
 ## Beschreibung der Phase 1:
-Hier geht es darum, alles für den Projektstart vorzubereiten. Ich installiere zunächst Visual Studio mit den notwendigen .NET MAUI-Komponenten. Dann entwickle ich eine einfache Test-App ("Hello World"), um zu prüfen, ob alles richtig funktioniert - besonders wichtig ist, dass die App im Emulator einwandfrei läuft. Wenn alles klappt, lade ich das Projekt auf GitHub hoch und nenne es "HelloWorldMAUI". Zum Abschluss stelle ich das Ergebnis der FW-Leitung vor und hole mir das Okay für die nächsten Schritte.
+Die Aufgabe war, alles für den Projektstart vorzubereiten. Dafür mussten Visual Studio und die .NET MAUI-Komponenten installiert werden. Danach sollte eine einfache Test-App („Hello World“) erstellt und im Emulator getestet werden. Wenn alles funktionierte, wurde das Projekt auf GitHub unter dem Namen „HelloWorldMAUI“ hochgeladen. Zum Schluss wurde das Ergebnis der FW-Leitung vorgestellt und das Okay für die nächsten Schritte eingeholt.
 
 ## Beschreibung der Phase 5:
 In dieser Phase beschäftige ich mich mit dem Code eines anderen Projektteams - in diesem Fall mit dem Projekt von Herrn Günes. Ich lade dessen Repository herunter, teste die Funktionsweise und dokumentiere meine Ergebnisse. Besonders spannend wird es, wenn ich in einem eigenen Branch experimentieren und kleine Änderungen vornehmen darf - etwa das Design anpassen oder neue Funktionen ausprobieren.
