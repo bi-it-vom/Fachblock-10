@@ -18,7 +18,7 @@ Tätigkeiten:
 - Die Projektbeschreibung wurde gelesen und verstanden.
 - .NET Mauji wurde erstellt und erfolgreich angezeigt:
 Net_Mauji.png
-- Die Dokumentation (README.md) wurde erstellt.
+- Die Dokumentation (README_Projektjournal.md) wurde erstellt.
 
 Bemerkungen:
 - Die Einrichtung verlief ohne grössere Schwierigkeiten.
