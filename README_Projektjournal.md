@@ -4,6 +4,14 @@ Datum: 04.07.2025
 
 ---
 
+## Beschreibung Phase 1:
+Hier geht es darum, alles für den Projektstart vorzubereiten. Ich installiere zunächst Visual Studio mit den notwendigen .NET MAUI-Komponenten. Dann entwickle ich eine einfache Test-App ("Hello World"), um zu prüfen, ob alles richtig funktioniert - besonders wichtig ist, dass die App im Emulator einwandfrei läuft. Wenn alles klappt, lade ich das Projekt auf GitHub hoch und nenne es "HelloWorldMAUI". Zum Abschluss stelle ich das Ergebnis der FW-Leitung vor und hole mir das Okay für die nächsten Schritte.
+
+## Beschreibung Phase 5:
+In dieser Phase beschäftige ich mich mit dem Code eines anderen Projektteams - in diesem Fall mit dem Projekt von Herrn Günes. Ich lade dessen Repository herunter, teste die Funktionsweise und dokumentiere meine Ergebnisse. Besonders spannend wird es, wenn ich in einem eigenen Branch experimentieren und kleine Änderungen vornehmen darf - etwa das Design anpassen oder neue Funktionen ausprobieren. Alles, was ich dabei lerne, schreibe ich in eine Anleitung, die später für Schulungen verwendet werden kann. Parallel führe ich ein Projektjournal, in dem ich meine Arbeitsschritte festhalte.
+
+---
+
 ## Phase 1: Projektstart und Einrichtung
 
 Tätigkeiten:
