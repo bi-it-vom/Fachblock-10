@@ -9,7 +9,7 @@ Datum: 04.07.2025
 Tätigkeiten:
 - Die Projektbeschreibung wurde gelesen und verstanden.
 - .NET Mauji wurde erstellt und erfolgreich angezeigt:
-<img img="Net_Mauji.png" alt="Hintergrundbild" width="400">
+Net_Mauji.png
 - Die Dokumentation (README.md) wurde erstellt.
 
 Bemerkungen:
