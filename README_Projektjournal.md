@@ -1,6 +1,6 @@
-# Arbeitsjournal – Projekt FB10
+# Arbeitsjournal  FB10
 
-Datum: 14.07.2025
+Datum: 04.07.2025
 
 ---
 
@@ -8,13 +8,12 @@ Datum: 14.07.2025
 
 Tätigkeiten:
 - Die Projektbeschreibung wurde gelesen und verstanden.
-- Das GitHub-Repository wurde erstellt bzw. der Zugriff wurde eingerichtet.
-- Die lokale Entwicklungsumgebung wurde vorbereitet.
-- Abhängigkeiten wurden installiert, und der erste Start des Projekts verlief erfolgreich.
-- Eine erste Struktur für die Dokumentation (README.md) wurde erstellt.
+- .NET Mauji wurde erstellt.
+  
+- Die Dokumentation (README.md) wurde erstellt.
 
 Bemerkungen:
-- Die Einrichtung verlief ohne größere Schwierigkeiten.
+- Die Einrichtung verlief ohne grössere Schwierigkeiten.
 
 ---
 
