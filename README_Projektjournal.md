@@ -17,7 +17,7 @@ In dieser Phase beschäftige ich mich mit dem Code eines anderen Projektteams - 
 Tätigkeiten:
 - Die Projektbeschreibung wurde gelesen und verstanden.
 - .NET Mauji wurde erstellt und erfolgreich angezeigt:
-Net_Mauji.png
+![alt text](Net_Mauji.png "Title")
 - Die Dokumentation (README_Projektjournal.md) wurde erstellt.
 
 Bemerkungen:
