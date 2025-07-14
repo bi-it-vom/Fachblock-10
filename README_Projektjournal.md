@@ -1,4 +1,3 @@
-<div style="background-image: url('https://img.freepik.com/fotos-premium/hintergrund-einer-weissen-betonmauer_707519-14914.jpg'); background-size: cover; padding: 50px;">
 # Arbeitsjournal  FB10 Melvin Volmar
 
 Datum: 04.07.2025
