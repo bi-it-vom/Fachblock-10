@@ -20,14 +20,14 @@ Tätigkeiten:
 ![alt text](Net_Mauji.png "Title")
 - Die Dokumentation (README_Projektjournal.md) wurde erstellt.
 
-  Ausführen:
+## Ausführen:
 
     1. Zuerst öffnet man Visual Studio.
     2. Danach wählt man das Projekt aus.
     3. Zum Schluss drückt man oben auf den grünen Play Button:
-![alt text](PlayButton.png "Title")
+![ProjektMappenExplorer](ProjektMappenExplorer.png "Title")
 
-OneCounterClicked ändern:
+## OneCounterClicked ändern:
 
     1. Zuerst geht man zum ProjektMappen-Explorer.
     2. Anschliessend drückt man auf MainPage.xaml.cs:
