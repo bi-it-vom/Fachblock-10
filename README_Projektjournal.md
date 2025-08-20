@@ -20,7 +20,7 @@ Tätigkeiten:
 ![alt text](Net_Mauji.png "Title")
 - Die Dokumentation (README_Projektjournal.md) wurde erstellt.
 
-## Ausführen von Hallo Welt:
+## Ausführen von Hello World:
 
     1. Zuerst öffnet man Visual Studio.
     2. Danach wählt man das Projekt aus.
