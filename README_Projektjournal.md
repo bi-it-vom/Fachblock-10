@@ -23,7 +23,7 @@ Tätigkeiten:
 ## Ausführen von Hello World:
 
     1. Zuerst öffnet man Visual Studio.
-    2. Danach wählt man das Projekt aus.
+    2. Danach wählt man das richtige Projekt aus.
     3. Zum Schluss drückt man oben auf den grünen Play Button:
 ![alt text](PlayButton.png "Title")
 
