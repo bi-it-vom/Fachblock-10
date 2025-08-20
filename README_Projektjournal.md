@@ -35,17 +35,20 @@ OneCounterClicked ändern:
     ![alt text](ProjektMappenExplorer.png "Title")
 
     3. Dann ersetzt man den OneCounterClicked Button mit dem Code:
-private void OnCounterClicked(object sender, EventArgs e)
-{
-    count += 5; // update this
-
-    if (count == 1)
-        CounterBtn.Text = $"Clicked {count} time";
-    else
-        CounterBtn.Text = $"Clicked {count} times";
-
-    SemanticScreenReader.Announce(CounterBtn.Text);
-}
+        ```
+        ```csharp
+        private void OnCounterClicked(object sender, EventArgs e)
+        {
+            count += 5; // update this
+        
+            if (count == 1)
+                CounterBtn.Text = $"Clicked {count} time";
+            else
+                CounterBtn.Text = $"Clicked {count} times";
+        
+            SemanticScreenReader.Announce(CounterBtn.Text);
+        }
+        ```
 
 Bemerkungen:
 - Die Einrichtung verlief ohne Probleme.
