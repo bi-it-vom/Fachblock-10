@@ -32,10 +32,10 @@ OneCounterClicked ändern:
     1. Zuerst geht man zum ProjektMappen-Explorer.
     2. Anschliessend drückt man auf MainPage.xaml.cs:
   
-    ![alt text](ProjektMappenExplorer.png "Title")
+![alt text](ProjektMappenExplorer.png "Title")
 
     3. Dann ersetzt man den OneCounterClicked Button mit dem Code:
-        ```
+
         ```csharp
         private void OnCounterClicked(object sender, EventArgs e)
         {
