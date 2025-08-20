@@ -30,7 +30,7 @@ Tätigkeiten:
 ## OneCounterClicked ändern:
 
     1. Zuerst geht man zum ProjektMappen-Explorer.
-    2. Anschliessend drückt man auf MainPage.xaml.cs:
+    2. Anschliessend drückt man auf MainPage.xaml:
   
 ![alt text](PME.png "Title")
 
