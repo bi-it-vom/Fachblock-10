@@ -20,31 +20,6 @@ Tätigkeiten:
 ![alt text](Net_Mauji.png "Title")
 - Die Dokumentation (README_Projektjournal.md) wurde erstellt.
 
-  Schrittanleitung:
-
-    1. Zuerst öffnen man Visual Studio.
-    2. Anschliessend erstellen wir ein neues Projekt und öffnen ".NET MAUI App".
-    3. Danach erstellen wir eine XML Datei namens App.xaml.  und fügen das ein:
-       
-        ```xml
-        <?xml version = "1.0" encoding = "UTF-8" ?>
-        <Application xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
-                     xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
-                     xmlns:local="clr-namespace:MyMauiApp"
-                     x:Class="MyMauiApp.App">
-            <Application.Resources>
-                <ResourceDictionary>
-                    <ResourceDictionary.MergedDictionaries>
-                        <ResourceDictionary Source="Resources/Colors.xaml" />
-                        <ResourceDictionary Source="Resources/Styles.xaml" />
-                    </ResourceDictionary.MergedDictionaries>
-                </ResourceDictionary>
-            </Application.Resources>
-        </Application>
-        ```
-App.xaml definiert zentrale Farben und Stile für die gesamte .NET MAUI-App.
-
-  4. Jetzt 
   Ausführen:
 
     1. Zuerst öffnet man Visual Studio.
