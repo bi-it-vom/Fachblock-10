@@ -25,7 +25,7 @@ Tätigkeiten:
     1. Zuerst öffnet man Visual Studio.
     2. Danach wählt man das Projekt aus.
     3. Zum Schluss drückt man oben auf den grünen Play Button:
-![ProjektMappenExplorer](ProjektMappenExplorer.png "Title")
+![alt text](PlayButton.png "Title")
 
 ## OneCounterClicked ändern:
 
